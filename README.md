@@ -1,5 +1,5 @@
 # TDGN_Master
-Submitting to IEEE TGRS!
+Submitting to Information Sciences!
 ----------
 ## Zhonghao Chen, Yuyang Wang, Hongmin Gao, Yiyan Zhang, Jia Zhao, Danfeng Hong, and Bing Zhang
 ----------
