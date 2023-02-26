@@ -1,5 +1,5 @@
 # TDGN_Master
-Submitting to Information Sciences!
+Submitting to Signal processing!
 ----------
 ## Zhonghao Chen, Yuyang Wang, Hongmin Gao, Yiyan Zhang, Qiqiang Zhong, Danfeng Hong, and Bing Zhang
 ----------
